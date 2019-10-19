@@ -14,10 +14,10 @@
      
 ## 3. output
 ![1](https://github.com/fazlizam96/259132-STIW3054-A191-A1/blob/master/Output.jpg)
-![1](https://github.com/fazlizam96/259132-STIW3054-A191-A1/blob/master/ExcelScreenShot.jpg)
+![2](https://github.com/fazlizam96/259132-STIW3054-A191-A1/blob/master/ExcelScreenShot.jpg)
 
 ## 4. UML
-(https://github.com/fazlizam96/259132-STIW3054-A191-A1/blob/master/UML%20Diagram.png)
+![3](https://github.com/fazlizam96/259132-STIW3054-A191-A1/blob/master/UML%20Diagram.png)
 
 
 ## 5. Youtube
